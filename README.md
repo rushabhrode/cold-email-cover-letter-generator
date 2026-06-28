@@ -1,6 +1,6 @@
 # 📧 Cold Email & Cover Letter Generator
 
-> A modern, AI-powered web application that generates highly personalized cold emails and cover letters from a job description and your resume. Built with Next.js, Gemini API, and Tailwind CSS.
+> A modern, AI-powered web application that generates highly personalized cold emails and cover letters from a job description and your resume so that your time gets saved. Built with Next.js, Gemini API, and Tailwind CSS.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)
